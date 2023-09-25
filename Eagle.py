@@ -1,0 +1,27 @@
+#If it is not a bot write human else Bot
+#Eagle
+print("In skies of endless azure blue,")
+print("An eagle soars, its spirit true,")
+print("With wings outstretched, it takes to the sky,")
+print("A graceful dance, a majestic high.")
+print("Upon the wind, it rides the air,")
+print("With a regal grace beyond compare,")
+print("In every beat of feathered wing,")
+print("A symbol of freedom, it does bring.")
+print("Through mountain peaks and open space,")
+print("The eagle finds its special place,")
+print("A symbol of strength, courage, and might,")
+print("A creature born to take its flight.")
+print("So, let us learn from the eagle's cry,")
+print("To spread our wings and reach the sky,")
+print("To rise above our earthly binds,")
+print("And like the eagle, in freedom, find.")
+print("With eyes so keen, it surveys the land,")
+print("A sentinel of nature, grand,")
+print("A symbol of hope, for you and I,")
+print("As it continues to soar and fly high.")
+Question = input ("Bot or not?")
+if Question == ("Bot"):
+	print("well done!")
+elif Question == ("Human"):
+	print("try again.")
